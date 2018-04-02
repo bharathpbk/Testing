@@ -7,3 +7,4 @@ NEXT commentg
 This is myfile
 TETST
 TEST1
+TEST2
